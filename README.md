@@ -1,1 +1,1 @@
-Meu primeiro portifolio web.
+Area de desenvolvimento de futuras versões do profile.
